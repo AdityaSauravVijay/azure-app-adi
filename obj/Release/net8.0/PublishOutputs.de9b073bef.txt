@@ -1,0 +1,12 @@
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\azure-app-adi.exe
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\publish\web.config
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\publish\azure-app-adi.deps.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\publish\azure-app-adi.runtimeconfig.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\azure-app-adi.dll
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\azure-app-adi.deps.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\azure-app-adi.runtimeconfig.json
+C:\Users\adity\OneDrive\Desktop\.NETProjects\AzureProjects\azure-app-adi\bin\Release\net8.0\publish\azure-app-adi.pdb
