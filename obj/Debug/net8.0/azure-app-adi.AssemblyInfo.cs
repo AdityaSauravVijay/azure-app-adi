@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-adi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f2e594765032b176794147702a05a9148ee0e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a8fbabd432e904d35cd361a91c06824a321a8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-adi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-adi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
